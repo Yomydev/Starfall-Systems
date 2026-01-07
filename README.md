@@ -8,7 +8,7 @@
 
 ---
 
-## 🏗 Repository Architecture
+##  Repository Architecture
 This repository follows a modular structure to ensure scalability across Starfall's game titles and automation tools.
 
 ```text
